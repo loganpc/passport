@@ -9,7 +9,7 @@ return [
 
     'sk' => 'user-sk',
 
-    'sandbox_uri' => '',
+    'sandbox_uri' => 'http://passport.wdyclass.com',
 
-    'live_uri' => '',
+    'live_uri' => 'http://passport.wdyedu.com',
 ];
